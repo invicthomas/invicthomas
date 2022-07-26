@@ -23,4 +23,4 @@
 ####    I am the captain of my soul.
 ---
 
-![Audio Recording of Invictus](https://en.wikipedia.org/wiki/File:Invictus.ogg)
+!audio[Audio Recording of Invictus](https://en.wikipedia.org/wiki/File:Invictus.ogg)
