@@ -23,4 +23,6 @@
 ####    I am the captain of my soul.
 ---
 
-!audio[Audio Recording of Invictus](https://en.wikipedia.org/wiki/File:Invictus.ogg)
+
+[![Invictus](https://en.wikipedia.org/wiki/Invictus#/media/File:William_Ernest_Henley_Vanity_Fair_1892-11-26.jpg)](https://youtu.be/3Uc9wS3DOPo)
+
